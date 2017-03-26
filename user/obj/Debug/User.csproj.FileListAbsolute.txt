@@ -1,0 +1,12 @@
+d:\app\my\User\User\bin\Debug\User.exe.config
+d:\app\my\User\User\bin\Debug\User.exe
+d:\app\my\User\User\bin\Debug\User.pdb
+d:\app\my\User\User\obj\Debug\User.exe
+d:\app\my\User\User\obj\Debug\User.pdb
+D:\app\my\User\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+C:\app\my\User\User\bin\Debug\User.exe.config
+C:\app\my\User\User\obj\Debug\User.exe
+C:\app\my\User\User\obj\Debug\User.pdb
+C:\app\my\User\User\bin\Debug\User.exe
+C:\app\my\User\User\bin\Debug\User.pdb
+C:\app\my\User\User\obj\Debug\User.csprojResolveAssemblyReference.cache
